@@ -10,7 +10,7 @@ Reading and writing files with Electron.
 
 # DEMO
 
-[![eye-catch][DEMO]
+[![eye-catch]][DEMO]
 
 [DEMO]:https://ytyaru.github.io/Electron.File.Read.Write.20220803171508/
 [eye-catch]:https://github.com/ytyaru/Electron.File.Read.Write.20220803171508/blob/master/eye-catch.png?raw=true
